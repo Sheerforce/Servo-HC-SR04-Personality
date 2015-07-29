@@ -10,5 +10,5 @@ void setup(){
 }
 
 void loop(){
-    Serial.println("Callibration finished!")
+    Serial.println("Callibration finished!");
 }
