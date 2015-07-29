@@ -5,7 +5,7 @@
 Servo sonicservo;
 
 void setup(){
-    sonicservo.attach(SERVO_DATA_PIN)
+    sonicservo.attach(SERVO_DATA_PIN);
     sonicservo.write(90);
 }
 
